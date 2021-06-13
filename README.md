@@ -16,3 +16,5 @@ This code calculates following three things and store them in a file named Outpu
 - Calculates the total time of execution of all processes.
 - Calculates the average waiting time.
 
+## Language
+- C++
