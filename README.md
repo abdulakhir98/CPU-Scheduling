@@ -1,5 +1,7 @@
 # CPU-Scheduling
 
+## Description
+
 The aim is to learn about CPU Scheduling.
 
 There are three Ethernet cards in the machine. Each process runs some CPU cycle then reads data from any of the Ethernet cards. The processes arrive in order, i.e. P1 then P2 and then P3.
